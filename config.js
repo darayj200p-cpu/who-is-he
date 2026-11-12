@@ -5,5 +5,5 @@
 // =====================================================================
 window.APP_CONFIG = {
   SUPABASE_URL: 'https://afmvwuzkvzscybzndzqn.supabase.co',
-  SUPABASE_KEY: 'sb_publishable_여기에-키'
+  SUPABASE_KEY: 'sb_publishable_Et3mdGW6sXMa8a9RYQvjNQ_UycINNMN'
 };
